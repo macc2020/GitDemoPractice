@@ -3,5 +3,6 @@ public class Demo2 {
         System.out.println("marthaba 2");
         //new marhaba
         // new merhaba 2
+        //marhaba 3
     }
 }
