@@ -3,6 +3,8 @@ public class Demo1 {
 
         System.out.println(" new commit");
         System.out.println("ne new commit");
+        //sout net commit
+      
 
 
 //new commit 2
